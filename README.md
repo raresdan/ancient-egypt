@@ -1,4 +1,12 @@
-# Ancient Egypt
+# 🌵Ancient Egypt Website
 
-### A simple multi-page website about Ancient Egypt (in Romanian language) that I created using mostly HTML and CSS, with very little JavaScript. 
-### :iphone: The page is also adapted to be mobile responsive.
+A simple multi-page website providing information about Ancient Egypt, created primarily using HTML and CSS, with minimal JavaScript. The content is presented in Romanian.
+
+## Features
+
+- **Multi-Page Structure:** Explore various aspects of Ancient Egypt through different pages.
+- **Responsive Design:** The website is optimized for a seamless experience on both desktop and mobile devices.
+- **Technologies Used:**
+  - HTML
+  - CSS
+  - JavaScript (minimal usage)
